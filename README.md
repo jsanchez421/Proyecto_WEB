@@ -1,7 +1,7 @@
 # GRUPO 1
 ## Proyecto_Web
 
-###Integrantes:
+### Integrantes:
 1. Giancarlo Zapata
 2. Javier Villamil
 3. Catherine Prieto
