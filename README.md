@@ -2,9 +2,9 @@
 ## Proyecto_Web
 
 ### Integrantes:
-1. Giancarlo Zapata
-2. Javier Villamil
-3. Catherine Prieto
+1. Catherin Prieto
+2. Giancarlo Zapata
+3. Javier Villamil
 4. Johan Sanchez
 
 Proyecto grupal - BICTIA
