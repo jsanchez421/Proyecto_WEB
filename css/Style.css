@@ -102,6 +102,16 @@
     color: rgba(255, 255, 255, 1);
 }
 
+/*
+.navbar li ul li {
+    display: none;
+}
+
+.navbar li ul li:hover {
+    display: block;
+    position: relative;
+}
+*/
 .navbar a {
     display: inline-block;
     text-decoration: none;
@@ -111,7 +121,8 @@
 
 .selected {
     font-weight: bold;
-    border-bottom: solid rgb(212, 211, 211);
+    border-bottom: solid;
+    color: #06c;
 }
 
 /* --  TERMINA CONTENIDO MENU --*/
