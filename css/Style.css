@@ -100,6 +100,11 @@
 
 .navbar li :hover {
     color: rgba(255, 255, 255, 1);
+
+}
+
+.navbar li:hover {
+    border-bottom: solid #06c;
 }
 
 /*
